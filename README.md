@@ -50,8 +50,8 @@ Soy **estudiante de Ingeniería de Software** y desarrollador Full Stack enfocad
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Merc4x/LiveCopilot">
-        <img src="./assets/project-livecopilot.svg" alt="LiveCopilot" width="100%" />
+      <a href="https://github.com/Merc4x/LiveCopilot" target="_blank">
+        <img src="./assets/livecopilot.png" alt="LiveCopilot" width="100%" />
       </a>
       <h3>LiveCopilot</h3>
       <p>Copiloto de escritorio con captura de audio de baja latencia (WASAPI), transcripción en tiempo real y sugerencias conversacionales con IA en un HUD flotante a 60 FPS.</p>
@@ -60,20 +60,20 @@ Soy **estudiante de Ingeniería de Software** y desarrollador Full Stack enfocad
         <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
         <img src="https://img.shields.io/badge/Groq_Whisper-F55036?style=flat-square" />
       </p>
-      <a href="https://github.com/Merc4x/LiveCopilot"><b>Código en GitHub &rarr;</b></a>
+      <a href="https://github.com/Merc4x/LiveCopilot" target="_blank"><b>Código en GitHub &rarr;</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Merc4x/proyecto_salud_laboral">
-        <img src="./assets/project-saludlaboral.svg" alt="Salud Laboral" width="100%" />
+      <a href="https://tutranquilidadlaboral.onrender.com/" target="_blank">
+        <img src="./assets/salud-laboral.png" alt="Soluciones en Salud Laboral" width="100%" />
       </a>
-      <h3>Salud Laboral</h3>
+      <h3>Soluciones en Salud Laboral</h3>
       <p>Plataforma web integral para la difusión, gestión y asesoría en Seguridad y Salud en el Trabajo (SG-SST), auditorías preventivas y capacitaciones empresariales.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5_%2F_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
       </p>
-      <a href="https://github.com/Merc4x/proyecto_salud_laboral"><b>Ver Proyecto &rarr;</b></a>
+      <a href="https://tutranquilidadlaboral.onrender.com/" target="_blank"><b>Sitio Web (Demo)</b></a> &bull; <a href="https://github.com/Merc4x/proyecto_salud_laboral" target="_blank"><b>Código en GitHub</b></a>
     </td>
   </tr>
 </table>
