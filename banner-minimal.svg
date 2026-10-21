@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Alejandro Mercado">
+  <defs>
+    <!-- Apple Dark Mode Gradients -->
+    <linearGradient id="apple-headline" x1="0%" y1="0%" x2="80%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#EDEDED"/>
+      <stop offset="100%" stop-color="#86868B"/>
+    </linearGradient>
+
+    <linearGradient id="apple-canvas" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#141416"/>
+      <stop offset="100%" stop-color="#0A0A0C"/>
+    </linearGradient>
+
+    <linearGradient id="apple-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.12"/>
+    </linearGradient>
+
+    <style>
+      .eyebrow {
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+        letter-spacing: 4px;
+        fill: #86868B;
+        text-transform: uppercase;
+      }
+      .headline {
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', sans-serif;
+        font-size: 46px;
+        font-weight: 700;
+        letter-spacing: -1.2px;
+        fill: url(#apple-headline);
+      }
+      .subheadline {
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', 'Segoe UI', sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        fill: #A1A1A6;
+        letter-spacing: -0.2px;
+      }
+      .pill-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', 'Segoe UI', sans-serif;
+        font-size: 11px;
+        font-weight: 500;
+        fill: #D1D1D6;
+        letter-spacing: 0.3px;
+      }
+    </style>
+  </defs>
+
+  <!-- Clean Obsidian Background -->
+  <rect width="1200" height="260" rx="16" fill="url(#apple-canvas)"/>
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="15.5" fill="none" stroke="url(#apple-border)" stroke-width="1"/>
+
+  <!-- Content Group -->
+  <g transform="translate(80, 56)">
+    <!-- Eyebrow -->
+    <text x="0" y="0" class="eyebrow">ALEJANDRO MERCADO · FULL STACK DEVELOPER</text>
+
+    <!-- Main Headline -->
+    <text x="0" y="50" class="headline">Engineering with precision and flow.</text>
+
+    <!-- Subheadline -->
+    <text x="0" y="88" class="subheadline">Building scalable digital experiences through modern architecture and vibe coding.</text>
+
+    <!-- Minimalist Apple-like Pills -->
+    <g transform="translate(0, 122)">
+      <rect width="170" height="30" rx="15" fill="#1C1C1E" stroke="#2C2C2E" stroke-width="1"/>
+      <text x="85" y="19" class="pill-text" text-anchor="middle">Full Stack Architecture</text>
+
+      <rect x="182" width="120" height="30" rx="15" fill="#1C1C1E" stroke="#2C2C2E" stroke-width="1"/>
+      <text x="242" y="19" class="pill-text" text-anchor="middle">Vibe Coding</text>
+
+      <rect x="314" width="170" height="30" rx="15" fill="#1C1C1E" stroke="#2C2C2E" stroke-width="1"/>
+      <text x="399" y="19" class="pill-text" text-anchor="middle">Available for Projects</text>
+    </g>
+  </g>
+</svg>
