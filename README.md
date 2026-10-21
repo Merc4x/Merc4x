@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Alejandro Mercado - Merc4x" width="100%" />
+<img src="./header.svg" alt="Alejandro Mercado - Merc4x" width="100%" />
 
 <br/>
 
@@ -16,11 +16,11 @@
 
 ## // 01. Perfil
 
-Desarrollador de software Full Stack enfocado en la concepción, desarrollo y puesta en marcha de aplicaciones web modernas. Mi enfoque integra una base sólida en ingeniería de software con metodologías de **vibe coding**, aprovechando herramientas asistidas por inteligencia artificial para optimizar tiempos de iteración y entregar productos digitales escalables, funcionales y de alto impacto.
+Desarrollador de software Full Stack enfocado en la concepción, desarrollo y despliegue de aplicaciones web escalables. Mi enfoque integra una base sólida en ingeniería de software con metodologías de **vibe coding**, aprovechando herramientas avanzadas de desarrollo asistido para optimizar tiempos de iteración y entregar productos digitales robustos y de alto rendimiento.
 
-- **Frontend:** Diseño e implementación de interfaces fluidas, reactivas y accesibles con frameworks modernos.
-- **Backend & APIs:** Arquitectura modular de servidores, consumo y diseño de APIs RESTful, y lógica de negocio sólida.
-- **Metodología:** Código limpio, tipado estricto, control de versiones y flujo de trabajo enfocado en agilidad y entrega continua.
+- **Frontend:** Interfaces responsivas, reactivas y accesibles desarrolladas con frameworks modernos.
+- **Backend & APIs:** Arquitectura modular, diseño y consumo de APIs RESTful, y persistencia optimizada.
+- **Metodología:** Tipado estricto, código limpio, versionamiento estructurado y flujo ágil de entrega continua.
 
 <br/>
 
@@ -46,7 +46,7 @@ Desarrollador de software Full Stack enfocado en la concepción, desarrollo y pu
   <tr>
     <td width="50%" valign="top">
       <h3>LiveCopilot</h3>
-      <p>Asistente interactivo en tiempo real diseñado para automatización de procesos, integración fluida de herramientas y optimización de productividad en flujos de trabajo.</p>
+      <p>Asistente interactivo en tiempo real diseñado para automatización de procesos, integración de herramientas y optimización de productividad en entornos de desarrollo.</p>
       <p>
         <code>Python</code> &bull; <code>Full Stack</code> &bull; <code>Automation</code> &bull; <code>Real-Time</code>
       </p>
@@ -54,7 +54,7 @@ Desarrollador de software Full Stack enfocado en la concepción, desarrollo y pu
     </td>
     <td width="50%" valign="top">
       <h3>Plataforma Web &amp; Servicios</h3>
-      <p>Implementación de aplicación web integral de extremo a extremo, con gestión de autenticación, consultas de alto rendimiento y arquitectura modular.</p>
+      <p>Implementación de aplicación web completa de extremo a extremo, con gestión de autenticación, consultas optimizadas y arquitectura modular.</p>
       <p>
         <code>React</code> &bull; <code>Node.js</code> &bull; <code>PostgreSQL</code> &bull; <code>Tailwind</code>
       </p>
