@@ -4,6 +4,7 @@
 
 <br/>
 
+<a href="https://github.com/Merc4x" target="_blank"><img src="https://img.shields.io/badge/Portafolio-161617?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
 <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-161617?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Merc4x" target="_blank"><img src="https://img.shields.io/badge/GitHub-161617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://x.com/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/X-161617?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -69,6 +70,7 @@ Desarrollador de software Full Stack centrado en la creación de aplicaciones we
 
 Disponible para proyectos de desarrollo, colaboraciones y nuevas oportunidades profesionales.
 
+- **Portafolio:** [En desarrollo](https://github.com/Merc4x)
 - **LinkedIn:** [linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/TU-USUARIO)
 - **Correo:** [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
 - **WhatsApp:** [wa.me/TU-NUMERO](https://wa.me/TU-NUMERO)
