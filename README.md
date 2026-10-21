@@ -88,6 +88,6 @@ Soy **estudiante de Ingeniería de Software** y desarrollador Full Stack enfocad
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Merc4x Footer" />
+<img src="./assets/footer-horizon.svg" width="100%" alt="Merc4x Horizon Footer" />
 
 </div>

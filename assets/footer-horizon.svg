@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-label="Merc4x Footer Horizon">
+  <defs>
+    <!-- Flowing Aurora Gradient (Exact Top Banner Colors: Cyan #06b6d4, Cobalt #2563eb, Violet #7c3aed) -->
+    <linearGradient id="aurora-flow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.5">
+        <animate attributeName="stop-color" values="#06b6d4;#2563eb;#7c3aed;#06b6d4" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="35%" stop-color="#2563eb" stop-opacity="0.6">
+        <animate attributeName="stop-color" values="#2563eb;#7c3aed;#06b6d4;#2563eb" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="70%" stop-color="#7c3aed" stop-opacity="0.65">
+        <animate attributeName="stop-color" values="#7c3aed;#06b6d4;#2563eb;#7c3aed" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0.5">
+        <animate attributeName="stop-color" values="#06b6d4;#2563eb;#7c3aed;#06b6d4" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Laser Beam Pulse traveling along the Horizon Crest -->
+    <linearGradient id="laser-travel" x1="-100%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#2563eb" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="54%" stop-color="#00f5d4" stop-opacity="0.8"/>
+      <stop offset="60%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+      <animate attributeName="x1" from="-100%" to="100%" dur="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" from="0%" to="200%" dur="3.6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Breathing Atmospheric Base Glow -->
+    <radialGradient id="footer-glow" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.25">
+        <animate attributeName="stop-color" values="#2563eb;#7c3aed;#06b6d4;#2563eb" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="stop-opacity" values="0.20;0.40;0.20" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="60%" stop-color="#7c3aed" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <style>
+      .sig-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: 4px;
+        fill: #86868b;
+        text-transform: uppercase;
+      }
+      .sig-glow {
+        animation: textPulse 4s ease-in-out infinite;
+      }
+      @keyframes textPulse {
+        0%, 100% { fill: #86868b; }
+        50% { fill: #d1d1d6; }
+      }
+    </style>
+  </defs>
+
+  <!-- Ambient Breathing Base Atmosphere -->
+  <rect width="1200" height="100" fill="url(#footer-glow)"/>
+
+  <!-- Fluid Ribbon 1: Curved Widescreen Horizon Arc -->
+  <path d="M 0 68 C 300 24, 900 24, 1200 68 L 1200 100 L 0 100 Z" fill="url(#aurora-flow)" opacity="0.85"/>
+
+  <!-- Fluid Ribbon 2: Secondary Counter-Curvature Light Sheet -->
+  <path d="M 0 52 C 400 38, 800 38, 1200 52 L 1200 100 L 0 100 Z" fill="#080b14" opacity="0.55"/>
+
+  <!-- Hairline Base Arc Line -->
+  <path d="M 0 68 C 300 24, 900 24, 1200 68" fill="none" stroke="#2563eb" stroke-opacity="0.35" stroke-width="1"/>
+
+  <!-- Moving Laser Light Pulse riding the crest of the Horizon -->
+  <path d="M 0 68 C 300 24, 900 24, 1200 68" fill="none" stroke="url(#laser-travel)" stroke-width="1.8"/>
+
+  <!-- Center Floating Tech Badge -->
+  <g transform="translate(480, 56)">
+    <rect width="240" height="26" rx="13" fill="#0d111a" stroke="#2c3a58" stroke-width="1"/>
+    
+    <!-- Pulsing Cyan Satellite Dot -->
+    <circle cx="20" cy="13" r="3.5" fill="#00f5d4">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    
+    <text x="126" y="17" class="sig-text sig-glow" text-anchor="middle">MERC4X · FLOW 2026</text>
+  </g>
+</svg>
