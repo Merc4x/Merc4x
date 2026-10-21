@@ -45,25 +45,35 @@ Soy **estudiante de Ingeniería de Software** y desarrollador Full Stack enfocad
 
 <br/>
 
-## Proyectos
+## Proyectos Destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/Merc4x/LiveCopilot">
+        <img src="./assets/project-livecopilot.svg" alt="LiveCopilot" width="100%" />
+      </a>
       <h3>LiveCopilot</h3>
-      <p>Asistente interactivo en tiempo real enfocado en la automatización de procesos y optimización de productividad en flujos de desarrollo.</p>
+      <p>Copiloto de escritorio con captura de audio de baja latencia (WASAPI), transcripción en tiempo real y sugerencias conversacionales con IA en un HUD flotante a 60 FPS.</p>
       <p>
-        <code>Python</code> &bull; <code>Full Stack</code> &bull; <code>Automation</code>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq_Whisper-F55036?style=flat-square" />
       </p>
-      <a href="https://github.com/Merc4x/LiveCopilot"><b>Ver Repositorio &rarr;</b></a>
+      <a href="https://github.com/Merc4x/LiveCopilot"><b>Código en GitHub &rarr;</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>Plataforma Web &amp; Servicios</h3>
-      <p>Desarrollo web modular de punta a punta, con integración de autenticación segura, persistencia de datos y diseño enfocado en usabilidad.</p>
+      <a href="https://github.com/Merc4x/proyecto_salud_laboral">
+        <img src="./assets/project-saludlaboral.svg" alt="Salud Laboral" width="100%" />
+      </a>
+      <h3>Salud Laboral</h3>
+      <p>Plataforma web integral para la difusión, gestión y asesoría en Seguridad y Salud en el Trabajo (SG-SST), auditorías preventivas y capacitaciones empresariales.</p>
       <p>
-        <code>React</code> &bull; <code>Node.js</code> &bull; <code>PostgreSQL</code>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5_%2F_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
       </p>
-      <a href="https://github.com/Merc4x"><b>Explorar Proyectos &rarr;</b></a>
+      <a href="https://github.com/Merc4x/proyecto_salud_laboral"><b>Ver Proyecto &rarr;</b></a>
     </td>
   </tr>
 </table>
