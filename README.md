@@ -88,6 +88,6 @@ Soy **estudiante de Ingeniería de Software** y desarrollador Full Stack enfocad
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0ea5e9&height=110&section=footer" width="100%" alt="Footer Wave" />
+<img src="./assets/footer.svg" width="100%" alt="Merc4x Footer" />
 
 </div>
