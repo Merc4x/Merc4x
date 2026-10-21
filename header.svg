@@ -171,5 +171,5 @@
 
   <!-- BOTTOM FOOTER ACCENTS -->
   <text x="56" y="303" class="code" font-size="10" fill="#3b4b6b">PORTFOLIO // 2026</text>
-  <text x="1144" y="303" class="code" font-size="10" fill="#3b4b6b" text-anchor="end">MERC4X &bull; GITHUB PROFILE</text>
+  <text x="1144" y="303" class="code" font-size="10" fill="#3b4b6b" text-anchor="end">MERC4X · GITHUB PROFILE</text>
 </svg>
