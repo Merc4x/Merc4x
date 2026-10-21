@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner-apple.svg" alt="Alejandro Mercado" width="100%" />
+<img src="./banner-es.svg" alt="Alejandro Mercado" width="100%" />
 
 <br/>
 
