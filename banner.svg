@@ -1,58 +1,106 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Alejandro Mercado — Desarrollador de Software Full-Stack">
-<defs>
-<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
-<stop offset="0%" stop-color="#0aa5ff"/>
-<stop offset="55%" stop-color="#6c5ce7"/>
-<stop offset="100%" stop-color="#a855f7"/>
-</linearGradient>
-<radialGradient id="glow1" cx="0.82" cy="0.15" r="0.55">
-<stop offset="0%" stop-color="#6c5ce7" stop-opacity="0.55"/>
-<stop offset="100%" stop-color="#6c5ce7" stop-opacity="0"/>
-</radialGradient>
-<radialGradient id="glow2" cx="0.12" cy="1" r="0.5">
-<stop offset="0%" stop-color="#0aa5ff" stop-opacity="0.35"/>
-<stop offset="100%" stop-color="#0aa5ff" stop-opacity="0"/>
-</radialGradient>
-<pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
-<circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.07"/>
-</pattern>
-<style>
-.t { font-family: 'Inter', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; }
-.m { font-family: 'JetBrains Mono', Consolas, Menlo, monospace; }
-.cursor { animation: blink 1.1s steps(1) infinite; }
-@keyframes blink { 50% { opacity: 0; } }
-.rise { animation: rise .9s cubic-bezier(.16,1,.3,1) both; }
-.d1 { animation-delay: .15s; } .d2 { animation-delay: .3s; } .d3 { animation-delay: .45s; }
-@keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
-</style>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Alejandro Mercado - Full Stack Developer">
+  <defs>
+    <!-- Color Gradients -->
+    <linearGradient id="cyber-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="50%" stop-color="#7000ff"/>
+      <stop offset="100%" stop-color="#ff007a"/>
+    </linearGradient>
+    
+    <linearGradient id="border-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#30363d" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#7000ff" stop-opacity="0.4"/>
+    </linearGradient>
 
-<rect width="1200" height="320" rx="24" fill="#0b1020"/>
-<rect width="1200" height="320" rx="24" fill="url(#dots)"/>
-<rect width="1200" height="320" rx="24" fill="url(#glow1)"/>
-<rect width="1200" height="320" rx="24" fill="url(#glow2)"/>
-<rect x="0.5" y="0.5" width="1199" height="319" rx="23.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+    <linearGradient id="code-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
 
-<!-- status pill -->
-<g class="rise">
-<rect x="72" y="52" width="236" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/>
-<circle cx="94" cy="69" r="5" fill="#34d399"/>
-<text x="108" y="74" class="t" font-size="15" font-weight="500" fill="#d6dcf5">Disponible para trabajar</text>
-</g>
+    <!-- Grid Pattern Background -->
+    <pattern id="cyber-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#30363d" stroke-width="0.5" stroke-opacity="0.4"/>
+    </pattern>
 
-<!-- title -->
-<text x="72" y="152" class="t rise d1" font-size="54" font-weight="800" letter-spacing="-1.5" fill="#ffffff">Hola, soy <tspan fill="url(#grad)">Alejandro Mercado</tspan></text>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, Monaco, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif; }
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
 
-<!-- subtitle -->
-<text x="74" y="202" class="t rise d2" font-size="22" font-weight="500" fill="#aab3d6">Desarrollador de Software Full-Stack · Vibe Coder</text>
+  <!-- Canvas Background -->
+  <rect width="1200" height="340" rx="16" fill="#090d16"/>
+  <rect width="1200" height="340" rx="16" fill="url(#cyber-grid)"/>
 
-<!-- command line tech tags -->
-<g class="rise d3">
-<text x="74" y="258" class="m" font-size="17" fill="#6c7bb0">&gt; <tspan fill="#0aa5ff">react</tspan> · <tspan fill="#6c5ce7">next.js</tspan> · <tspan fill="#a855f7">node.js</tspan> · <tspan fill="#0aa5ff">python</tspan> · <tspan fill="#6c5ce7">typescript</tspan> · <tspan fill="#ffffff" font-weight="700">vibe coding</tspan><tspan class="cursor" fill="#0aa5ff" font-weight="700">_</tspan></text>
-</g>
+  <!-- Subtle Ambient Glow Behind Text -->
+  <circle cx="280" cy="170" r="140" fill="#00f0ff" fill-opacity="0.06"/>
+  <circle cx="950" cy="170" r="160" fill="#7000ff" fill-opacity="0.08"/>
 
-<!-- code brackets mark -->
-<g transform="translate(1000 88)" opacity="0.9">
-<text x="0" y="110" class="m" font-size="124" font-weight="700" fill="url(#grad)">{ }</text>
-</g>
+  <!-- Outer Border -->
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="15.5" fill="none" stroke="url(#border-gradient)" stroke-width="1.2"/>
+
+  <!-- Terminal Window Bar -->
+  <rect x="0" y="0" width="1200" height="42" rx="16" fill="#111622"/>
+  <rect x="0" y="24" width="1200" height="18" fill="#111622"/>
+  <line x1="0" y1="42" x2="1200" y2="42" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Terminal Dots -->
+  <circle cx="28" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="21" r="6" fill="#27c93f"/>
+
+  <!-- Terminal Title -->
+  <text x="600" y="26" class="mono" font-size="12" fill="#8b949e" text-anchor="middle" letter-spacing="1">merc4x@developer: ~ (zsh)</text>
+
+  <!-- LEFT COLUMN: Identity & Bio -->
+  <!-- Status Badge -->
+  <rect x="54" y="68" width="195" height="26" rx="13" fill="#161b22" stroke="#00f0ff" stroke-opacity="0.4" stroke-width="1"/>
+  <circle cx="70" cy="81" r="4" fill="#00f0ff"/>
+  <text x="82" y="85" class="mono" font-size="11" font-weight="600" fill="#c9d1d9" letter-spacing="0.5">STATUS: OPEN TO WORK</text>
+
+  <!-- Name -->
+  <text x="54" y="145" class="sans" font-size="44" font-weight="900" letter-spacing="-0.5" fill="url(#cyber-gradient)">ALEJANDRO MERCADO</text>
+
+  <!-- Subtitle -->
+  <text x="54" y="180" class="mono" font-size="15" font-weight="600" fill="#8b949e" letter-spacing="2">FULL STACK DEVELOPER // VIBE CODING</text>
+
+  <!-- CLI Prompt Lines -->
+  <g transform="translate(54, 222)">
+    <text x="0" y="0" class="mono" font-size="14" fill="#58a6ff">$ whoami</text>
+    <text x="0" y="22" class="mono" font-size="13" fill="#8b949e">&gt; Building scalable digital solutions from frontend to backend.</text>
+    
+    <text x="0" y="52" class="mono" font-size="14" fill="#58a6ff">$ stack --core</text>
+    <text x="120" y="52" class="mono" font-size="13" fill="#00f0ff">React · Next.js · Node.js · Python · TypeScript<tspan class="cursor" fill="#ff007a">_</tspan></text>
+  </g>
+
+  <!-- RIGHT COLUMN: Code Card -->
+  <g transform="translate(730, 68)">
+    <!-- Card Frame -->
+    <rect width="416" height="232" rx="12" fill="url(#code-bg)" stroke="#30363d" stroke-width="1"/>
+    
+    <!-- Card Header -->
+    <rect width="416" height="30" rx="12" fill="#1f242c"/>
+    <rect y="18" width="416" height="12" fill="#1f242c"/>
+    <line x1="0" y1="30" x2="416" y2="30" stroke="#30363d" stroke-width="0.8"/>
+    <text x="20" y="20" class="mono" font-size="11" fill="#8b949e">merc4x.config.ts</text>
+    <circle cx="395" cy="15" r="3" fill="#8b949e"/>
+
+    <!-- Code Content -->
+    <text x="24" y="60" class="mono" font-size="13" fill="#ff7b72">const <tspan fill="#d2a8ff">developer</tspan> <tspan fill="#79c0ff">=</tspan> <tspan fill="#c9d1d9">{</tspan></text>
+    
+    <text x="44" y="86" class="mono" font-size="13" fill="#79c0ff">handle<tspan fill="#c9d1d9">:</tspan> <tspan fill="#a5d6ff">'Merc4x'</tspan><tspan fill="#c9d1d9">,</tspan></text>
+    
+    <text x="44" y="112" class="mono" font-size="13" fill="#79c0ff">role<tspan fill="#c9d1d9">:</tspan> <tspan fill="#a5d6ff">'Full Stack Engineer'</tspan><tspan fill="#c9d1d9">,</tspan></text>
+    
+    <text x="44" y="138" class="mono" font-size="13" fill="#79c0ff">mindset<tspan fill="#c9d1d9">:</tspan> <tspan fill="#a5d6ff">'Vibe Coding &amp; Flow'</tspan><tspan fill="#c9d1d9">,</tspan></text>
+    
+    <text x="44" y="164" class="mono" font-size="13" fill="#79c0ff">strengths<tspan fill="#c9d1d9">:</tspan> <tspan fill="#c9d1d9">[</tspan><tspan fill="#a5d6ff">'UI/UX'</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">'APIs'</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">'Automation'</tspan><tspan fill="#c9d1d9">],</tspan></text>
+    
+    <text x="44" y="190" class="mono" font-size="13" fill="#79c0ff">openToWork<tspan fill="#c9d1d9">:</tspan> <tspan fill="#ff7b72">true</tspan></text>
+    
+    <text x="24" y="216" class="mono" font-size="13" fill="#c9d1d9"><tspan fill="#c9d1d9">};</tspan></text>
+  </g>
 </svg>
