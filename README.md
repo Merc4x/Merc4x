@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://merc4x.github.io" target="_blank"><img src="https://img.shields.io/badge/Portafolio-161617?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
+<a href="https://merc4x.github.io/portafolio/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-161617?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
 <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-161617?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Merc4x" target="_blank"><img src="https://img.shields.io/badge/GitHub-161617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://x.com/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/X-161617?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -75,7 +75,7 @@ Soy **estudiante de Ingeniería de Software** en el TdeA y desarrollador Full St
 </table>
 
 <p align="center">
-  <a href="https://merc4x.github.io" target="_blank"><b>Explorar mi portafolio web completo &rarr;</b></a>
+  <a href="https://merc4x.github.io/portafolio/" target="_blank"><b>Explorar mi portafolio web completo &rarr;</b></a>
 </p>
 
 <br/>
