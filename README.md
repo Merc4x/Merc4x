@@ -17,7 +17,7 @@
 
 ## Sobre mí
 
-Soy **estudiante de Ingeniería de Software** en el TdeA y desarrollador Full Stack enfocado en la construcción de productos digitales escalables y de alto impacto. Mi enfoque combina una sólida formación académica con metodologías ágiles y **vibe coding**, aprovechando herramientas modernas para iterar rápido con código limpio, modular y bien documentado.
+Soy **estudiante de 4.° semestre de Ingeniería de Software en el Tecnológico de Antioquia (TdeA)** y desarrollador Full Stack enfocado en la construcción de productos digitales escalables y de alto impacto. Mi enfoque combina una sólida formación académica con metodologías ágiles y **vibe coding**, aprovechando herramientas modernas para iterar rápido con código limpio, modular y bien documentado.
 
 - **Frontend:** Desarrollo de interfaces limpias, intuitivas y responsivas con TypeScript, React, Next.js y Tailwind CSS.
 - **Backend:** Diseño de APIs RESTful, servicios robustos con Java (Spring Boot), Node.js y Python, y modelado de datos.
