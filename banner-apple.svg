@@ -1,6 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Alejandro Mercado">
   <defs>
-    <!-- Apple Light Sweep Shimmer on Headline -->
+    <!-- Apple Top Loading Progress Bar Gradient -->
+    <linearGradient id="apple-loader-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="60%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#a1a1aa"/>
+    </linearGradient>
+
+    <!-- Metallic Text Shimmer on Headline -->
     <linearGradient id="apple-shimmer" x1="-100%" y1="0%" x2="200%" y2="0%">
       <stop offset="0%" stop-color="#737373"/>
       <stop offset="30%" stop-color="#8e8e93"/>
@@ -11,7 +18,7 @@
       <animate attributeName="x2" from="0%" to="200%" dur="4s" repeatCount="indefinite"/>
     </linearGradient>
 
-    <!-- Subtle Ambient Aurora Glow (Apple Intelligence Style) -->
+    <!-- Ambient Aurora Glow (Apple Intelligence Style) -->
     <radialGradient id="aurora" cx="50%" cy="40%" r="55%">
       <stop offset="0%" stop-color="#2563eb" stop-opacity="0.14">
         <animate attributeName="stop-color" values="#2563eb;#7c3aed;#06b6d4;#2563eb" dur="10s" repeatCount="indefinite"/>
@@ -65,20 +72,33 @@
         fill: #d1d1d6;
         letter-spacing: 0.3px;
       }
+      .fade-entrance {
+        animation: softEntrance 0.9s cubic-bezier(0.16, 1, 0.3, 1) both;
+      }
+      @keyframes softEntrance {
+        from { opacity: 0; transform: translateY(4px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
     </style>
   </defs>
 
   <!-- Clean Obsidian Background -->
   <rect width="1200" height="260" rx="16" fill="url(#apple-canvas)"/>
 
-  <!-- Animated Ambient Aurora Glow -->
+  <!-- Ambient Aurora Glow -->
   <rect width="1200" height="260" rx="16" fill="url(#aurora)"/>
 
   <!-- Subtle Hairline Border -->
   <rect x="0.5" y="0.5" width="1199" height="259" rx="15.5" fill="none" stroke="url(#apple-border)" stroke-width="1"/>
 
-  <!-- Content Group -->
-  <g transform="translate(80, 56)">
+  <!-- Apple Loading Progress Bar (Sweeps 0% to 100% on page load, then dissolves) -->
+  <rect x="0" y="0" width="0" height="2" fill="url(#apple-loader-line)">
+    <animate attributeName="width" from="0" to="1200" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1"/>
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.8;1" dur="2.1s" fill="freeze"/>
+  </rect>
+
+  <!-- Content Group (Exact Previous Design) -->
+  <g transform="translate(80, 56)" class="fade-entrance">
     <!-- Eyebrow -->
     <text x="0" y="0" class="eyebrow">ALEJANDRO MERCADO · FULL STACK DEVELOPER</text>
 
