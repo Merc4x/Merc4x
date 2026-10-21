@@ -15,29 +15,33 @@
 
 <br/>
 
-## Perfil
+## Sobre mí
 
-Desarrollador de software Full Stack centrado en la creación de aplicaciones web escalables y de alto rendimiento. Mi enfoque combina fundamentos sólidos de ingeniería con metodologías modernas de **vibe coding**, priorizando la simplicidad arquitectónica, la experiencia de usuario y la entrega continua de valor.
+Soy **estudiante de Ingeniería de Software** y desarrollador Full Stack enfocado en la construcción de productos digitales escalables y de alto impacto. Mi enfoque combina una sólida formación académica con metodologías ágiles y **vibe coding**, aprovechando herramientas modernas para iterar rápido con código limpio, modular y bien documentado.
 
-- **Frontend:** Construcción de interfaces limpias, intuitivas y responsivas con TypeScript, React y Next.js.
-- **Backend:** Diseño e implementación de servicios modulares, APIs REST y gestión eficiente de bases de datos.
-- **Filosofía:** Código mantenible, tipado riguroso y flujo de trabajo ágil potenciado por herramientas modernas.
+- **Frontend:** Desarrollo de interfaces limpias, intuitivas y responsivas con TypeScript, React, Next.js y Tailwind CSS.
+- **Backend:** Diseño de APIs RESTful, servicios modulares con Node.js y Python, y modelado relacional y no relacional.
+- **Filosofía:** Tipado estricto, buenas prácticas de desarrollo, aprendizaje continuo y enfoque práctico en resolver problemas.
 
 <br/>
 
 ## Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mongodb,docker,git,github,vscode,postman&perline=8&theme=dark" alt="Stack Tecnológico" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&perline=7&theme=dark" alt="Frontend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mongodb&perline=6&theme=dark" alt="Backend y Bases de Datos" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&perline=5&theme=dark" alt="Herramientas y DevOps" />
 </p>
 
 | Área | Tecnologías |
 |---|---|
-| **Frontend** | React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Express, Python, FastAPI, APIs REST |
-| **Bases de Datos** | PostgreSQL, MongoDB, Modelado relacional y NoSQL |
-| **Herramientas & Entorno** | Git, GitHub, Docker, VS Code, Postman |
-| **Enfoque** | Arquitectura Full Stack, Vibe Coding, Rendimiento y Escalabilidad |
+| **Frontend** | React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML5 · CSS3 |
+| **Backend** | Python · FastAPI · Node.js · Express · APIs REST |
+| **Bases de Datos** | PostgreSQL · MongoDB · Modelado relacional y documental |
+| **Herramientas & DevOps** | Git · GitHub Actions · Docker · VS Code · Postman |
+| **Metodología** | Arquitectura Full Stack · Vibe Coding · Código Limpio |
 
 <br/>
 
