@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" alt="Alejandro Mercado - Merc4x" width="100%" />
+<img src="./banner-merc4x.svg" alt="Alejandro Mercado - Merc4x" width="100%" />
 
 <br/>
 
