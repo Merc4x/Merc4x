@@ -48,34 +48,30 @@ Soy **estudiante de Ingeniería de Software** y desarrollador Full Stack enfocad
 ## Proyectos Destacados
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Merc4x/LiveCopilot" target="_blank">
-        <img src="./assets/livecopilot.png" alt="LiveCopilot" width="100%" />
-      </a>
-      <h3>LiveCopilot</h3>
-      <p>Copiloto de escritorio con captura de audio de baja latencia (WASAPI), transcripción en tiempo real y sugerencias conversacionales con IA en un HUD flotante a 60 FPS.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
-        <img src="https://img.shields.io/badge/Groq_Whisper-F55036?style=flat-square" />
-      </p>
-      <a href="https://github.com/Merc4x/LiveCopilot" target="_blank"><b>Código en GitHub &rarr;</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://tutranquilidadlaboral.onrender.com/" target="_blank">
-        <img src="./assets/salud-laboral.png" alt="Soluciones en Salud Laboral" width="100%" />
-      </a>
-      <h3>Soluciones en Salud Laboral</h3>
-      <p>Plataforma web integral para la difusión, gestión y asesoría en Seguridad y Salud en el Trabajo (SG-SST), auditorías preventivas y capacitaciones empresariales.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
-      </p>
-      <a href="https://tutranquilidadlaboral.onrender.com/" target="_blank"><b>Sitio Web (Demo)</b></a> &bull; <a href="https://github.com/Merc4x/proyecto_salud_laboral" target="_blank"><b>Código en GitHub</b></a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Merc4x/LiveCopilot" target="_blank"><img src="./assets/livecopilot.png" alt="LiveCopilot" /></a>
+<h3>LiveCopilot</h3>
+<p>Copiloto de escritorio con captura de audio (WASAPI), transcripción en tiempo real y sugerencias conversacionales con IA en un HUD flotante a 60 FPS.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq_Whisper-F55036?style=flat-square" />
+</p>
+<a href="https://github.com/Merc4x/LiveCopilot" target="_blank"><b>Código en GitHub &rarr;</b></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://tutranquilidadlaboral.onrender.com/" target="_blank"><img src="./assets/salud-laboral.png" alt="Soluciones en Salud Laboral" /></a>
+<h3>Salud Laboral</h3>
+<p>Plataforma web integral para la difusión, gestión y asesoría en Seguridad y Salud en el Trabajo (SG-SST), auditorías y capacitaciones empresariales.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+</p>
+<a href="https://tutranquilidadlaboral.onrender.com/" target="_blank"><b>Demo</b></a> &bull; <a href="https://github.com/Merc4x/proyecto_salud_laboral" target="_blank"><b>Código</b></a>
+</td>
+</tr>
 </table>
 
 <br/>
