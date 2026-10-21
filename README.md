@@ -8,8 +8,8 @@
 <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-161617?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Merc4x" target="_blank"><img src="https://img.shields.io/badge/GitHub-161617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://x.com/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/X-161617?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://wa.me/TU-NUMERO" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-161617?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-161617?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/573116425806" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-161617?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="mailto:alejo.quiroz2534@gmail.com"><img src="https://img.shields.io/badge/Email-161617?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -84,7 +84,7 @@ Soy **estudiante de Ingeniería de Software** y desarrollador Full Stack enfocad
 
 <h2>¿Hablamos?</h2>
 
-<p>Estoy abierto a oportunidades como desarrollador, consultoría y proyectos colaborativos.<br/>Escríbeme a <b><a href="mailto:tu-correo@ejemplo.com">tu-correo@ejemplo.com</a></b> o por <b><a href="https://wa.me/TU-NUMERO" target="_blank">WhatsApp</a></b>.</p>
+<p>Estoy abierto a oportunidades como desarrollador, consultoría y proyectos colaborativos.<br/>Escríbeme a <b><a href="mailto:alejo.quiroz2534@gmail.com">alejo.quiroz2534@gmail.com</a></b> o por <b><a href="https://wa.me/573116425806" target="_blank">WhatsApp</a></b>.</p>
 
 <br/>
 
