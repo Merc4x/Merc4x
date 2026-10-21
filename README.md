@@ -1,63 +1,83 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Alejandro+Mercado+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Into+Vibe+Coding+%26+Building+Cool+Stuff+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+<img src="./banner.svg" alt="Alejandro Mercado — Desarrollador de Software Full-Stack" width="100%" />
+
+<br/>
+
+<a href="https://TU-PORTAFOLIO.com"><img src="https://img.shields.io/badge/Portafolio-0b1020?style=for-the-badge&logo=googlechrome&logoColor=0aa5ff" alt="Portafolio" /></a>
+<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=0aa5ff" alt="LinkedIn" /></a>
+<a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" /></a>
+<a href="https://wa.me/TU-NUMERO"><img src="https://img.shields.io/badge/WhatsApp-0b1020?style=for-the-badge&logo=whatsapp&logoColor=34d399" alt="WhatsApp" /></a>
+<a href="https://x.com/TU-USUARIO"><img src="https://img.shields.io/badge/X-0b1020?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" /></a>
+
+</div>
+
+<br/>
+
+## Sobre mí
+
+Soy **desarrollador de software full-stack** y entusiasta del **vibe coding**. Construyo productos de punta a punta: desde el diseño visual y la experiencia de usuario en el frontend, hasta APIs robustas, integraciones y bases de datos en el backend.
+
+- 🚀 Me enfoco en crear aplicaciones web modernas, rápidas y escalables con tecnologías actuales.
+- 🎧 Trabajo con metodologías ágiles, buenas prácticas de desarrollo y un flujo de trabajo optimizado.
+- 🎯 Disponible para proyectos freelance, colaboraciones o nuevos retos profesionales.
+
+<br/>
+
+## 🛠️ Stack
 
 <p align="center">
-  <b>Passionate Full Stack Developer & Vibe Coder</b> 🎧⚡<br>
-  Crafting modern, scalable web applications with clean code and smooth user experiences.
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=7" alt="Frontend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=7" alt="Backend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,vscode,postman&perline=7" alt="Datos y herramientas" />
 </p>
 
-<p align="center">
-  <!-- Reemplaza los enlaces con tus perfiles reales -->
-  <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/TU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://discord.com/users/TU-ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+| | |
+|---|---|
+| **Frontend** | React · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS |
+| **Backend** | Node.js · Express · Python · FastAPI · APIs REST |
+| **Bases de datos** | PostgreSQL · MongoDB · Modelado relacional y no relacional |
+| **Herramientas** | Git · GitHub · Docker · VS Code · Postman · Vibe Coding |
+
+<br/>
+
+## 🚀 Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>⚡ LiveCopilot</h3>
+<p>Asistente interactivo en tiempo real con integración inteligente y automatización.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Full_Stack-0aa5ff?style=flat-square" />
+<img src="https://img.shields.io/badge/Open_Source-34D399?style=flat-square" />
 </p>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,postgres,mongodb,git,github,docker,vscode,postman&perline=9" alt="Tech Stack" />
-  </a>
+<a href="https://github.com/Merc4x/LiveCopilot"><b>Código en GitHub →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>🌐 Web Application & Services</h3>
+<p>Desarrollo web a medida con arquitectura Full-Stack, autenticación y gestión de datos.</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
+<a href="https://github.com/Merc4x"><b>Ver más proyectos →</b></a>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Merc4x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merc4x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF" alt="Top Languages" height="165" />
-</p>
+### 💬 ¿Hablamos?
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Merc4x&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=00D2FF&currStreakNum=00D2FF" alt="GitHub Streak" />
-</p>
+Estoy abierto a oportunidades como desarrollador. Escríbeme a **[tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)** o a través de **[LinkedIn](https://www.linkedin.com/in/TU-USUARIO)**.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa5ff,55:6c5ce7,100:a855f7&height=110&section=footer" width="100%" alt="Footer Wave" />
 
-### 🚀 Featured Project
-
-<p align="center">
-  <a href="https://github.com/Merc4x/LiveCopilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merc4x&repo=LiveCopilot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF" alt="LiveCopilot Pin" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Good things take time. Code with good vibes." ☕✨</i>
-</p>
+</div>
