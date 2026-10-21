@@ -74,14 +74,20 @@ Soy **estudiante de Ingeniería de Software** y desarrollador Full Stack enfocad
 </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/Merc4x?tab=repositories"><b>Ver todos los proyectos en mi portafolio &rarr;</b></a>
+</p>
+
 <br/>
 
-## Contacto
+<div align="center">
 
-Disponible para proyectos de desarrollo, colaboraciones y nuevas oportunidades profesionales.
+<h2>¿Hablamos?</h2>
 
-- **Portafolio:** [En desarrollo](https://github.com/Merc4x)
-- **LinkedIn:** [linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/TU-USUARIO)
-- **Correo:** [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
-- **WhatsApp:** [wa.me/TU-NUMERO](https://wa.me/TU-NUMERO)
-- **GitHub:** [github.com/Merc4x](https://github.com/Merc4x)
+<p>Estoy abierto a oportunidades como desarrollador, consultoría y proyectos colaborativos.<br/>Escríbeme a <b><a href="mailto:tu-correo@ejemplo.com">tu-correo@ejemplo.com</a></b> o por <b><a href="https://wa.me/TU-NUMERO" target="_blank">WhatsApp</a></b>.</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0ea5e9&height=110&section=footer" width="100%" alt="Footer Wave" />
+
+</div>
