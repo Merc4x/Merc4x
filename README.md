@@ -20,7 +20,7 @@
 Soy **estudiante de Ingeniería de Software** y desarrollador Full Stack enfocado en la construcción de productos digitales escalables y de alto impacto. Mi enfoque combina una sólida formación académica con metodologías ágiles y **vibe coding**, aprovechando herramientas modernas para iterar rápido con código limpio, modular y bien documentado.
 
 - **Frontend:** Desarrollo de interfaces limpias, intuitivas y responsivas con TypeScript, React, Next.js y Tailwind CSS.
-- **Backend:** Diseño de APIs RESTful, servicios modulares con Node.js y Python, y modelado relacional y no relacional.
+- **Backend:** Diseño de APIs RESTful, servicios robustos con Java (Spring Boot), Node.js y Python, y modelado de datos.
 - **Filosofía:** Tipado estricto, buenas prácticas de desarrollo, aprendizaje continuo y enfoque práctico en resolver problemas.
 
 <br/>
@@ -30,7 +30,7 @@ Soy **estudiante de Ingeniería de Software** y desarrollador Full Stack enfocad
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&perline=7&theme=dark" alt="Frontend" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mongodb&perline=6&theme=dark" alt="Backend y Bases de Datos" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express,postgres,mongodb&perline=8&theme=dark" alt="Backend y Bases de Datos" />
   <br/>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&perline=5&theme=dark" alt="Herramientas y DevOps" />
 </p>
@@ -38,7 +38,7 @@ Soy **estudiante de Ingeniería de Software** y desarrollador Full Stack enfocad
 | Área | Tecnologías |
 |---|---|
 | **Frontend** | React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML5 · CSS3 |
-| **Backend** | Python · FastAPI · Node.js · Express · APIs REST |
+| **Backend** | Java · Spring Boot · Python · FastAPI · Node.js · Express · APIs REST |
 | **Bases de Datos** | PostgreSQL · MongoDB · Modelado relacional y documental |
 | **Herramientas & DevOps** | Git · GitHub Actions · Docker · VS Code · Postman |
 | **Metodología** | Arquitectura Full Stack · Vibe Coding · Código Limpio |
