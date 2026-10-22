@@ -47,7 +47,7 @@ Soy **estudiante de 4.° semestre de Ingeniería de Software en el Tecnológico 
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33.3%" valign="top">
 <a href="https://merc4x.github.io/WMS/" target="_blank"><img src="./assets/wms.png" alt="WMS" /></a>
 <h3>WMS</h3>
 <p>Plataforma SaaS multi-empresa: monitoreo y rastreo de flotas de vehículos en tiempo real sobre mapa de Medellín, geocercas inteligentes y simulación GPS.</p>
@@ -59,7 +59,7 @@ Soy **estudiante de 4.° semestre de Ingeniería de Software en el Tecnológico 
 </p>
 <a href="https://merc4x.github.io/WMS/" target="_blank">Demo</a> · <a href="https://github.com/Merc4x/WMS" target="_blank">Código</a>
 </td>
-<td width="50%" valign="top">
+<td width="33.3%" valign="top">
 <a href="https://github.com/Merc4x/LiveCopilot" target="_blank"><img src="./assets/livecopilot.png" alt="LiveCopilot" /></a>
 <h3>LiveCopilot</h3>
 <p>Copiloto de escritorio nativo para Windows: captura de audio sin latencia (WASAPI), transcripción en tiempo real y HUD flotante a 60 FPS con PyQt6.</p>
@@ -71,9 +71,7 @@ Soy **estudiante de 4.° semestre de Ingeniería de Software en el Tecnológico 
 </p>
 <a href="https://github.com/Merc4x/LiveCopilot" target="_blank">Código</a>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33.3%" valign="top">
 <a href="https://tutranquilidadlaboral.onrender.com/" target="_blank"><img src="./assets/salud-laboral.png" alt="Soluciones en Salud Laboral" /></a>
 <h3>Salud Laboral</h3>
 <p>Plataforma web para difusión, gestión y asesoría en Seguridad y Salud en el Trabajo (SG-SST): normatividad colombiana, auditorías y capacitaciones empresariales.</p>
@@ -83,8 +81,6 @@ Soy **estudiante de 4.° semestre de Ingeniería de Software en el Tecnológico 
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
 </p>
 <a href="https://tutranquilidadlaboral.onrender.com/" target="_blank">Demo</a> · <a href="https://github.com/Merc4x/proyecto_salud_laboral" target="_blank">Código</a>
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
