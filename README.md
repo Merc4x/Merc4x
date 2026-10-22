@@ -85,15 +85,6 @@ Soy **estudiante de 4.° semestre de Ingeniería de Software en el Tecnológico 
 <a href="https://tutranquilidadlaboral.onrender.com/" target="_blank">Demo</a> · <a href="https://github.com/Merc4x/proyecto_salud_laboral" target="_blank">Código</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://merc4x.github.io/portafolio/" target="_blank"><img src="./assets/portafolio.png" alt="Portafolio Web Profesional" /></a>
-<h3>Portafolio Web</h3>
-<p>Showcase interactivo de proyectos de ingeniería: arquitectura Next.js, diseño responsivo, HUD dinámico, dark mode y animaciones de scroll fluidas.</p>
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
-<a href="https://merc4x.github.io/portafolio/" target="_blank">Demo</a> · <a href="https://github.com/Merc4x/portafolio" target="_blank">Código</a>
 </td>
 </tr>
 </table>
