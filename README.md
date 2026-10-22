@@ -43,42 +43,57 @@ Soy **estudiante de 4.° semestre de Ingeniería de Software en el Tecnológico 
 
 <br/>
 
-## Proyectos Destacados
+## Proyectos destacados
 
 <table>
 <tr>
-<td width="33.3%" valign="top">
-<a href="https://github.com/Merc4x/WMS" target="_blank"><img src="./assets/wms.png" alt="WMS Flotas" /></a>
+<td width="50%" valign="top">
+<a href="https://merc4x.github.io/WMS/" target="_blank"><img src="./assets/wms.png" alt="WMS" /></a>
 <h3>WMS</h3>
-<p>Plataforma SaaS multi-empresa para monitoreo y rastreo de flotas de vehículos en tiempo real sobre mapa interactivo de Medellín con geocercas y alertas.</p>
+<p>Plataforma SaaS multi-empresa: monitoreo y rastreo de flotas de vehículos en tiempo real sobre mapa de Medellín, geocercas inteligentes y simulación GPS.</p>
 <p>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
 </p>
-<a href="https://merc4x.github.io/WMS/" target="_blank"><b>Demo en Vivo</b></a> &bull; <a href="https://github.com/Merc4x/WMS" target="_blank"><b>Código</b></a>
+<a href="https://merc4x.github.io/WMS/" target="_blank">Demo</a> · <a href="https://github.com/Merc4x/WMS" target="_blank">Código</a>
 </td>
-<td width="33.3%" valign="top">
+<td width="50%" valign="top">
 <a href="https://github.com/Merc4x/LiveCopilot" target="_blank"><img src="./assets/livecopilot.png" alt="LiveCopilot" /></a>
 <h3>LiveCopilot</h3>
-<p>Copiloto de escritorio con captura de audio (WASAPI), transcripción en tiempo real y sugerencias conversacionales con IA en un HUD flotante a 60 FPS.</p>
+<p>Copiloto de escritorio nativo para Windows: captura de audio sin latencia (WASAPI), transcripción en tiempo real y HUD flotante a 60 FPS con PyQt6.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
 <img src="https://img.shields.io/badge/Groq_Whisper-F55036?style=flat-square" />
+<img src="https://img.shields.io/badge/WASAPI-0078D4?style=flat-square&logo=windows&logoColor=white" />
 </p>
-<a href="https://github.com/Merc4x/LiveCopilot" target="_blank"><b>Código en GitHub &rarr;</b></a>
+<a href="https://github.com/Merc4x/LiveCopilot" target="_blank">Código</a>
 </td>
-<td width="33.3%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://tutranquilidadlaboral.onrender.com/" target="_blank"><img src="./assets/salud-laboral.png" alt="Soluciones en Salud Laboral" /></a>
 <h3>Salud Laboral</h3>
-<p>Plataforma web integral para la difusión, gestión y asesoría en Seguridad y Salud en el Trabajo (SG-SST), auditorías y capacitaciones empresariales.</p>
+<p>Plataforma web para difusión, gestión y asesoría en Seguridad y Salud en el Trabajo (SG-SST): normatividad colombiana, auditorías y capacitaciones empresariales.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
 </p>
-<a href="https://tutranquilidadlaboral.onrender.com/" target="_blank"><b>Demo en Vivo</b></a> &bull; <a href="https://github.com/Merc4x/proyecto_salud_laboral" target="_blank"><b>Código</b></a>
+<a href="https://tutranquilidadlaboral.onrender.com/" target="_blank">Demo</a> · <a href="https://github.com/Merc4x/proyecto_salud_laboral" target="_blank">Código</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://merc4x.github.io/portafolio/" target="_blank"><img src="./assets/portafolio.png" alt="Portafolio Web Profesional" /></a>
+<h3>Portafolio Web</h3>
+<p>Showcase interactivo de proyectos de ingeniería: arquitectura Next.js, diseño responsivo, HUD dinámico, dark mode y animaciones de scroll fluidas.</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+<a href="https://merc4x.github.io/portafolio/" target="_blank">Demo</a> · <a href="https://github.com/Merc4x/portafolio" target="_blank">Código</a>
 </td>
 </tr>
 </table>
